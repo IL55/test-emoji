@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="875.0386" height="307.5186" viewBox="0 0 875.0386 307.5186">
+  <defs>
+    <style type="text/css">
+      @font-face {
+        font-family: 'emojione';
+        font-style: normal;
+        font-weight: 100;
+        src: url(./node_modules/emojione/assets/fonts/emojione-svg.woff2) format('woff2');
+        unicode-range: U+01F60A-01F618;
+      }
+    </style>
+  </defs>
+  <title>test</title>
+  <text
+    transform="translate(0 100)"
+    fill="#99FF00"
+    font-size="100">
+      &#x1F60A; system font &#x1F618;
+  </text>
+  <text
+    transform="translate(0 200)"
+    fill="#99FF00"
+    font-family="emojione"
+    font-size="100">
+      &#x1F60A; emoji-one font &#x1F618;
+  </text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "dependencies": {
+    "emojione": "^2.2.7",
+    "express": "4.13.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
